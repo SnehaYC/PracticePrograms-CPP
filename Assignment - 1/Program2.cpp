@@ -1,15 +1,19 @@
-// Write a program to print "Jay Ganesh" on screen.
+// Write a program to print addition of two numbers on screen.
 
-//-----------------------------------------------------------
+//-----------------------------------------------------------------
 // Header file and Macros
-//-----------------------------------------------------------
+//-----------------------------------------------------------------
 #include<iostream>
 using namespace std;
 
-//----------------------------------------------
-// Description   :  This function Display the output using Printf funtion
+//-----------------------------------------------------------------
+// Function Name :  Addition
+// Input         :  Integer
+// Output        :  Integer
+// Description   :  This function accept two numbers from user and 
+//                  display the output.
 // Author        :  Sneha Yogesh Choudhari
-//----------------------------------------------
+//-----------------------------------------------------------------
 
 int Addition(int iNo1, int iNo2)
 {
